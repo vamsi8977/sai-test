@@ -1,0 +1,12 @@
+git add .
+git commit -m "message"
+git push
+git pull
+git status
+git branch
+git branch new
+git checkout branch
+git rebase
+git diff
+git revert
+git clone
